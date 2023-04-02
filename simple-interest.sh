@@ -10,7 +10,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # wholeness0
 
    # Input:
    # p, principal amount
